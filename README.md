@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do luis Eduardo 😁
+## Bem-vindo(a) ao perfil do Luis Eduardo 😁
 
  <div>
    <a href="https://github.com/Luiseduardocc">
