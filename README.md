@@ -1,11 +1,9 @@
 ## Bem-vindo(a) ao perfil do Luis Eduardo 😁
 
  <div>
-   <a href="https://github.com/Luiseduardocc">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiseduardocc
-&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiseduardocc
-&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/devemdobro">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devemdobro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -15,6 +13,14 @@
 </div>
  
 <br>
+ 
+### Pra entrar em contato segue as redes!!!
+ 
+<div> 
+  <a href="https://instagram.com/luis_eduardocc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "luis.colares2006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luis-eduardo-0b479827b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
  
 ### Pra entrar em contato segue as redes abaixo!
  
